@@ -16,9 +16,9 @@
 
 ## Project consortium
 
-- [Chair of Technology Management, Institute for Innovation Research, Kiel University, Germany](https://www.techman.uni-kiel.de/en)
-- [ZBW -- Leibniz Information Centre for Economics, Kiel and Hamburg, Germany](http://zbw.eu/en/)
-- [ZBMED -- Information Centre for Life Sciences](https://www.zbmed.de/en/), Cologne, Germany.
+- [Chair of Technology Management](https://www.techman.uni-kiel.de/en), Institute for Innovation Research, Kiel University, Germany.
+- [ZBW -- Leibniz Information Centre for Economics](http://zbw.eu/en/), Kiel and Hamburg, Germany
+- [ZBMED -- Information Centre for Life Sciences](https://www.zbmed.de/en/), Cologne, Germany
 
 ## Funding
 
