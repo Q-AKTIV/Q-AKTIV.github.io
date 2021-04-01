@@ -22,6 +22,10 @@
 - [ZBW -- Leibniz Information Centre for Economics](http://zbw.eu/en/), Kiel and Hamburg, Germany
 - [ZB MED -- Information Centre for Life Sciences](https://www.zbmed.de/en/), Cologne, Germany
 
+## Links
+
+- [Project Description (German)](https://www.wihoforschung.de/de/q-aktiv-2178.php)
+
 ## Funding
 
 [Q-AKTIV is funded by the Federal Ministry of Education and Research (BMBF).](https://www.wihoforschung.de/de/q-aktiv-2178.php)
