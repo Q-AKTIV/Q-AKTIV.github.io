@@ -4,7 +4,7 @@
 
 - Tetyana Melnychuk, Carsten Schultz, Alexander Wirsich: **The Effects of University-Industry Collaboration in Preclinical Research on Pharmaceutical Firms' R&D Performance: Absorptive Capacity's Role**. To appear in: *JPIM* 2021.
 
-- Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz: **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. To appear in: *Hochschulmanagement* 16 (2021) issue 1.
+- Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz: **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16 (2021) issue 1.
 
 ### Conference proceedings
 
@@ -14,6 +14,13 @@
 
 - Eva Seidlmayer, Jakob Voß, Tetyana Melnychuk, Lukas Galke, Klaus Tochtermann, Carsten Schultz, Konrad U. Förstner: **ORCID for Wikidata — Data enrichment for scientometric applications**. Wikidata Workshop @ ISWC 2020.
 - Eva Seidlmayer, Lukas Galke, Tetyana Melnychuk, Carsten Schultz, Klaus Tochtermann, Konrad U. Förstner: **Take it Personally — A Python library for enrichment in informetrical applications**. Posters&Demos @ SEMANTICS 2019.
+
+
+## Code
+
+- Tools for harvesting raw data *code will be released soon*
+- Toolbox (Python package) for analyzing network dynamics *code will be released soon* 
+
 
 
 ## Project consortium
