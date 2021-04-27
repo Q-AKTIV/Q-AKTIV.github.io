@@ -18,8 +18,8 @@
 
 ## Code
 
-- Tools for harvesting raw data *code will be released soon*
-- Toolbox (Python package) for analyzing network dynamics *code will be released soon* 
+- Tools for harvesting raw data -- *code will be released soon*
+- Toolbox (Python package) for analyzing network dynamics -- *code will be released soon* 
 
 
 
