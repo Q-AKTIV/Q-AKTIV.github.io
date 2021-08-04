@@ -2,7 +2,7 @@
 
 ### Journal articles
 
-- Tetyana Melnychuk, Carsten Schultz, Alexander Wirsich: **The Effects of University-Industry Collaboration in Preclinical Research on Pharmaceutical Firms' R&D Performance: Absorptive Capacity's Role**. To appear in: *JPIM* 2021.
+- Melnychuk, T., Schultz, C. and Wirsich, A. (2021), The effects of university–industry collaboration in preclinical research on pharmaceutical firms’ R&D performance: Absorptive capacity’s role. J. Prod. Innov. Manag., 38: 355-378. https://doi.org/10.1111/jpim.12572
 
 - Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz: **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16 (2021) issue 1.
 
