@@ -12,8 +12,15 @@
 
 ### Workshop papers
 
+- Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz: **COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics**, Big Data Analysis for COVID-19 Workshop @ IEEE Big Data 2021.
 - Eva Seidlmayer, Jakob Voß, Tetyana Melnychuk, Lukas Galke, Klaus Tochtermann, Carsten Schultz, Konrad U. Förstner: **ORCID for Wikidata — Data enrichment for scientometric applications**. Wikidata Workshop @ ISWC 2020.
 - Eva Seidlmayer, Lukas Galke, Tetyana Melnychuk, Carsten Schultz, Klaus Tochtermann, Konrad U. Förstner: **Take it Personally — A Python library for enrichment in informetrical applications**. Posters&Demos @ SEMANTICS 2019.
+
+
+## Datasets
+
+- COVID19++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5531084.svg)](https://doi.org/10.5281/zenodo.5531084)
+
 
 
 ## Code
