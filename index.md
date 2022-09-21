@@ -1,3 +1,8 @@
+## Project description 
+
+The aim of Q-AKTIV is to improve the methods for forecasting dynamics and interactions between research, technology development, and innovation. The network analysis methods will be based on recent developments in Deep Learning. In addition to the emergence of new knowledge areas and networks, we focus on the convergence processes of established sectors. The development and evaluation of the new methods initially takes place in the field of life sciences, which is characterized by high marked dynamics. The additional application in economics enables a systematic comparison of the dynamics between the disciplines of science. The new methods will be used to predict the impact of existing research and network structures on the dynamics of knowledge and technologies as well as the future relevance of topics and actors.
+The result of Q-AKTIV is an implemented and evaluated instrument for the strategic analysis and prognosis of the dynamics in science and innovation. This complements today's primarily qualitative approaches to early strategic planning and increases the decision-making ability of research institutions, policy makers, and industries. In addition to the analysis of dynamics, also valuable indicators for R & D performance measurement can be derived, e.g., the registration of patents based on scientific publications, the economic development of the companies involved, as well as the outreach of research activities. The practice partner brings in the necessary experience in the field of business valuation and strategy development and ensures a practical testing of the toolkit.
+
 ## Publications on Q-AKTIV
 
 ### Journal articles
@@ -26,7 +31,7 @@
 ## Code
 
 - [Tools for harvesting raw data](https://github.com/Q-AKTIV/covid19-harvesting-tools)
-- Toolbox (Python package) for analyzing network dynamics -- *code will be released soon* 
+- [Toolbox (Python package) for analyzing network dynamics](https://gitlab.com/Q-Aktiv/qgraph)
 
 
 
