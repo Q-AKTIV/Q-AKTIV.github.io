@@ -11,9 +11,9 @@ The result of Q-AKTIV is an implemented and evaluated instrument for the strateg
 
 - Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (in prep.). Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19.
 - Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer; Stefanie Bröring, Konrad Förstner, Klaus Tochtermann, Carsten Schultz (in revision). Development of Similarity Measures from Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence.
-- Melnychuk, T., Schultz, C. and Wirsich, A. (2021). **The effects of university–industry collaboration in preclinical research on pharmaceutical firms’ R&D performance: Absorptive capacity’s role**. *J. Prod. Innov. Manag.*, 38: 355-378. https://doi.org/10.1111/jpim.12572
-- Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16, issue 1.
 - Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2021). **COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics**. Big Data Analysis for COVID-19 Workshop @ IEEE Big Data 2021. IEEE.
+- Tetyana Melnychuk, Carsten Schultz, Alexander Wirsich (2021). **The effects of university–industry collaboration in preclinical research on pharmaceutical firms’ R&D performance: Absorptive capacity’s role**. *J. Prod. Innov. Manag.*, 38: 355-378. https://doi.org/10.1111/jpim.12572
+- Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16, issue 1.
 - Eva Seidlmayer, Jakob Voß, Tetyana Melnychuk, Lukas Galke, Klaus Tochtermann, Carsten Schultz, Konrad U. Förstner (2020). **ORCID for Wikidata — Data enrichment for scientometric applications**. Wikidata Workshop @ ISWC 2020.
 - Eva Seidlmayer, Lukas Galke, Tetyana Melnychuk, Carsten Schultz, Klaus Tochtermann, Konrad U. Förstner (2019). **Take it Personally — A Python library for enrichment in informetrical applications**. Posters&Demos @ SEMANTICS 2019.
 - Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann: **Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora**. INFORMATIK 2019. GI.
@@ -21,8 +21,7 @@ The result of Q-AKTIV is an implemented and evaluated instrument for the strateg
 
 ## Datasets
 
-- COVID19++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5531084.svg)](https://doi.org/10.5281/zenodo.5531084)
-
+- COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics, [paper](https://doi.org/10.1109/BigData52589.2021.9671730), [dataset](https://doi.org/10.5281/zenodo.5531084)
 
 
 ## Code
