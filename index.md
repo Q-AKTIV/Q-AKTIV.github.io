@@ -21,7 +21,7 @@ The result of Q-AKTIV is an implemented and evaluated instrument for the strateg
 
 ## Datasets
 
-- COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics, [paper](https://doi.org/10.1109/BigData52589.2021.9671730), [dataset](https://doi.org/10.5281/zenodo.5531084)
+- **COVID-19++**: [[dataset]](https://doi.org/10.5281/zenodo.5531084), [[paper]](https://doi.org/10.1109/BigData52589.2021.9671730).
 
 
 ## Code
