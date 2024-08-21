@@ -16,7 +16,7 @@ The result of Q-AKTIV is an implemented and evaluated instrument for the strateg
 - Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16, issue 1.
 - Eva Seidlmayer, Jakob Voß, Tetyana Melnychuk, Lukas Galke, Klaus Tochtermann, Carsten Schultz, Konrad U. Förstner (2020). **ORCID for Wikidata — Data enrichment for scientometric applications**. Wikidata Workshop @ ISWC 2020.
 - Eva Seidlmayer, Lukas Galke, Tetyana Melnychuk, Carsten Schultz, Klaus Tochtermann, Konrad U. Förstner (2019). **Take it Personally — A Python library for enrichment in informetrical applications**. Posters&Demos @ SEMANTICS 2019.
-- Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann: **Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora**. INFORMATIK 2019. GI.
+- Lukas Galke, Tetyana Melnychuk, Eva Seidlmayer, Steffen Trog, Konrad U. Förster, Carsten Schultz, Klaus Tochtermann (2019). **Inductive Learning of Concept Representations from Library-Scale Bibliographic Corpora**. INFORMATIK 2019. GI.
 
 
 ## Datasets
