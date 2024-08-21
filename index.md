@@ -9,9 +9,8 @@ The result of Q-AKTIV is an implemented and evaluated instrument for the strateg
 
 ## Publications on Q-AKTIV
 
-- Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (in revision). **Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19**.
+- Eva Seidlmayer, Tetyana Melnychuk, Lukas Galke, Lisa Kühnel, Klaus Tochtermann, Carsten Schultz, Konrad Förstner (2024). **Research Topic Displacement and the Lack of Interdisciplinarity: Lessons from the Scientific Response to COVID-19**. To appear in Scientometrics.
 - Melnychuk, T., Galke, L., Seidlmayer, E., Bröring, S., Förstner, K. U., Tochtermann, K., & Schultz, C. (2023). **Development of Similarity Measures From Graph-Structured Bibliographic Metadata: An Application to Identify Scientific Convergence**. IEEE Transactions on Engineering Management, 1–17. https://doi.org/10.1109/TEM.2023.3308008
-https://doi.org/10.1109/TEM.2023.3308008
 - Lukas Galke, Eva Seidlmayer, Gavin Lüdemann, Lisa Langnickel, Tetyana Melnychuk, Konrad U. Förstner, Klaus Tochtermann, Carsten Schultz (2021). **COVID-19++: A Citation-Aware Covid-19 Dataset for the Analysis of Research Dynamics**. Big Data Analysis for COVID-19 Workshop @ IEEE Big Data 2021. IEEE.
 - Tetyana Melnychuk, Carsten Schultz, Alexander Wirsich (2021). **The effects of university–industry collaboration in preclinical research on pharmaceutical firms’ R&D performance: Absorptive capacity’s role**. *J. Prod. Innov. Manag.*, 38: 355-378. https://doi.org/10.1111/jpim.12572
 - Tetyana Melnychuk, Lukas Galke, Eva Seidlmayer, Konrad Ulrich Förster, Klaus Tochtermann, Carsten Schultz (2021). **Früherkennung wissenschaftlicher Konvergenz im Hochschulmanagement** [Translated: Early-detection of scientic convergence in university management]. *Hochschulmanagement* 16, issue 1.
